@@ -6,5 +6,6 @@
   "password": "abc123",
   "database": "dbname",
   "entities": ["./**/*.entity.js"],
-  "synchronize": false
+  "synchronize": false,
+  "timezone": "Z"
 }
