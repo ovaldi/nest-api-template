@@ -7,5 +7,5 @@
   "database": "dbname",
   "entities": ["./**/*.entity.js"],
   "synchronize": false,
-  "timezone": "Z"
+  "timezone": "Z" // https://typeorm.biunav.com/en/connection-options.html#common-connection-options
 }
